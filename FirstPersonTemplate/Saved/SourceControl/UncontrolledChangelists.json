@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/83/4Z5M5HVJP6ZU3RB38ED5ZR.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/20/1BY5OOAAIF9S6RVHXQ7Q4N.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9S/XR7F4CD0MBTPIG3CEVYZ9I.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/MQ/X7RGN41O0OOY4MAROC4XML.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/WMP_EndScreen.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullets.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/ScifiWeapons/Material/M_Emissive_Bullet.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KA/09Y8HENMEP0S63QBBSS2AR.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/Target/SM_Target_SM_Target/GC_SM_Target.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K9/P2GV7V8B4RZSF8S0REZ70Y.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/Target/M_TargetInterior.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/WMP_EngScreen.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/62/W4K6AU2FP03R58TWQYSRIL.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8E/C6HKDAW77AGDQXDK8PPMGY.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/R9/WMUZE1L0IALPA4GVPF6PSH.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject/ShooterTemplate/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGmame.uasset"
+			]
+		}
+	]
+}
