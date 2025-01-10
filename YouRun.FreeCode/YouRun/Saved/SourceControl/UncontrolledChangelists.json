@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_5.4/UE_5.4/Engine/Content/VREditor/BasicMeshes/SM_Ball_02.uasset",
+				"C:/Users/User/Documents/Unreal Projects/YouRun.FreeCode/Content/Blueprints/BP_Object.uasset",
+				"C:/Users/User/Documents/Unreal Projects/YouRun.FreeCode/Content/Maps/BegineerCourseLevel.umap",
+				"C:/Users/User/Documents/Unreal Projects/YouRun.FreeCode/Content/Blueprints/BP_PickupActor.uasset",
+				"C:/Users/User/Documents/Unreal Projects/YouRun.FreeCode/Content/Blueprints/BP_Character.uasset",
+				"C:/Users/User/Documents/Unreal Projects/YouRun.FreeCode/Content/Maps/BegineerCourseLevel1.umap",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Maps/BegineerCourseLevel.umap",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Structs/MyStructs.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Enums/MyEnum.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/Vector2.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/BP_Actor.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/BP_Character.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/BP_PickupActor.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/InteractionActor.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/UI/HUD/BP_HUD.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Maps/MainMenuLevel.umap",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/UI/MainMenu/BP_MainMenu.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/FunctionLibraries/OurBluePrintFunctionLibrary.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Models/SM_Ball_01.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Maps/_GENERATED/User/Stairs_BABC71BF.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Materials/OurMaterial.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Maps/_GENERATED/User/Extrude_C4786AF3.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Maps/_GENERATED/User/Stairs_17362E81.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Textures/WoodFloor051_1K-JPG_AmbientOcclusion.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Textures/WoodFloor051_1K-JPG_Color.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Textures/WoodFloor051_1K-JPG_Displacement.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Textures/WoodFloor051_1K-JPG_NormalDX.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Textures/WoodFloor051_1K-JPG_NormalGL.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Textures/WoodFloor051_1K-JPG_Roughness.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Materials/OurMaterial_Inst.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Models/TutorialTPP/NewAnimBlueprint.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Models/TutorialTPP/WalkRun.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Materials/NewMaterial.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/User/Documents/Unreal Projects/BegineerCourse/Content/NewBlueprint.uasset"
+			]
+		}
+	]
+}
